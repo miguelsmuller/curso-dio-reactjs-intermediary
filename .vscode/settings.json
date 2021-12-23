@@ -1,0 +1,10 @@
+{
+    //"php.validate.executablePath": "docker-compose exec app php"
+    "editor.wordWrapColumn": 110,
+    "editor.wordWrap": "wordWrapColumn",
+    "files.exclude": {
+        ".vscode": true,
+        "wp": true,
+        "**/node_modules": true
+      },
+}

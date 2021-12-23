@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.App {
+   padding: 0; 
+}
+
+Button{
+    padding: 10px;
+    margin: 10px;
+}
